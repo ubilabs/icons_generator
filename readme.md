@@ -41,3 +41,22 @@ Source input image:
 Generated icons:
 
 ![Source](http://github.com/ubilabs/icons_generator/raw/master/output_sample.png)
+
+## Sample Log ##
+
+While running the script, you see the following output:
+
+    Croping 11 images: 31x35
+    ...........
+    
+    Composing 40 images:
+    ........................................
+    
+    Quantify PNG-8 images:
+    ........................................
+    
+    Creating index file:
+    - output/_index.png
+    
+    DONE! 40 images generated.
+
