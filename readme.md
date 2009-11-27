@@ -30,3 +30,14 @@ To modify the icon size, change the image grid dimensions and update the followi
 
     WIDTH = 31
     HEIGHT = 35
+
+
+## Sample Output ##
+
+Source input image:
+
+![Source](http://github.com/ubilabs/icons_generator/raw/master/source.png)
+
+Generated icons:
+
+![Source](http://github.com/ubilabs/icons_generator/raw/master/output_sample.png)
