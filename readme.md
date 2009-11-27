@@ -42,6 +42,49 @@ Generated icons:
 
 ![Source](http://github.com/ubilabs/icons_generator/raw/master/output_sample.png)
 
+List of exported files:
+
+* normal\_default\_cluster
+* active\_default\_cluster
+* normal\_site\_cluster
+* active\_site\_cluster
+* normal\_offer\_cluster
+* active\_offer\_cluster
+* normal\_coupon\_cluster
+* active\_coupon\_cluster
+* normal\_my\_cluster
+* active\_my\_cluster
+* normal\_default\_shopping
+* active\_default\_shopping
+* normal\_site\_shopping
+* active\_site\_shopping
+* normal\_offer\_shopping
+* active\_offer\_shopping
+* normal\_coupon\_shopping
+* active\_coupon\_shopping
+* normal\_my\_shopping
+* active\_my\_shopping
+* normal\_default\_eat
+* active\_default\_eat
+* normal\_site\_eat
+* active\_site\_eat
+* normal\_offer\_eat
+* active\_offer\_eat
+* normal\_coupon\_eat
+* active\_coupon\_eat
+* normal\_my\_eat
+* active\_my\_eat
+* normal\_default\_explore
+* active\_default\_explore
+* normal\_site\_explore
+* active\_site\_explore
+* normal\_offer\_explore
+* active\_offer\_explore
+* normal\_coupon\_explore
+* active\_coupon\_explore
+* normal\_my\_explore
+* active\_my\_explore
+
 ## Sample Log ##
 
 While running the script, you see the following output:
