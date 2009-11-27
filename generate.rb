@@ -1,6 +1,7 @@
 TEMP_DIR = "_temp_output"
 OUTPUT_DIR = "output"
 TEMP_FILE = "#{TEMP_DIR}/_temp.png"
+INPUT_FILE = "source.png"
 INDEX_FILE = "#{OUTPUT_DIR}/_index.png"
 
 WIDTH = 31
@@ -29,7 +30,7 @@ def crop(images, index)
     crop_area = "#{WIDTH}x#{HEIGHT}+#{x}+#{y}"
 
     puts "- #{image}"
-    system "convert sprite.png -crop #{crop_area} #{file_name}"
+    system "convert #{INPUT_FILE} -crop #{crop_area} #{file_name}"
   end
 end
 
