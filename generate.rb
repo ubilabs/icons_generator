@@ -107,7 +107,7 @@ def clean_up
 end
 
 def quantify_images files
-  puts "\nQuantify PNG-8 images:"
+  puts "\nQuantifying PNG-8 images:"
   files.each do |file|
     system "pngquant -f #{file}"
     name = file.gsub(".png", "-fs8.png")

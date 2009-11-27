@@ -6,7 +6,7 @@ Creates all possible variations for a given set of layers. You can provide a sin
 
 ## Quick Install ##
 
-To download and test the script, execute this lines of code in your shell:
+To download and test the script, execute these lines of code in your shell:
 
     git clone git@github.com:ubilabs/icons_generator.git 
     cd icons_generator
@@ -95,7 +95,7 @@ While running the script, you see the following output:
     Composing 40 images:
     ........................................
     
-    Quantify PNG-8 images:
+    Quantifying PNG-8 images:
     ........................................
     
     Creating index file:
